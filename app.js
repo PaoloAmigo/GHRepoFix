@@ -104,10 +104,10 @@ export const editSale = (sale) => {
   };
 };
 
-
 // now i will comment like Omid did.
 
 // Hi everyone. This is my first commit
 
 // Burak's latest changes that you don't have. Report Omid
 
+// new comment
